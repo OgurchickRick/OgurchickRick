@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OgurchickRick&theme=2077)
-
+<div align="center">
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OgurchickRick&theme=2077)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OgurchickRick&theme=2077)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OgurchickRick&theme=2077)
+</div>
+  
 <!--
 **OgurchickRick/OgurchickRick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
