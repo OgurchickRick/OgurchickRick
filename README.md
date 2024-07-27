@@ -2,14 +2,7 @@
 	<img src="https://media.giphy.com/media/JmPenP1svctdfDCEHi/giphy.gif" width="300"/>
 </div>
 
-<div id="badges" align="center">
-  	<a href="https://web.telegram.org/z/">
-   		<img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
-  	</a>
-  	<a href="https://vk.com/feed">
-    	<img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="Youtube Badge"/>
-  	</a>
-</div>
+
 <div align="center">
 	<img src="https://komarev.com/ghpvc/?username=OgurchickRick&style=flat-square&color=blue" alt=""/>
 	<h1>
